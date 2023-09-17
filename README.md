@@ -17,7 +17,7 @@ Clone the Repository:
 ```
 bash
 git clone https://github.com/caseyr003/kibble_calculator.git
-cd kibble-calculator
+cd kibble_calculator
 ```
 
 Usage Example:
