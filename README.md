@@ -14,8 +14,7 @@ Follow these steps to use the Kibble Calculator in your Python project:
 
 Clone the Repository:
 
-```
-bash
+```bash
 git clone https://github.com/caseyr003/kibble_calculator.git
 cd kibble_calculator
 ```
